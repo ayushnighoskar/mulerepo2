@@ -35,7 +35,7 @@
 	            <username>ayushn01</username>
 	            <password>Mrku#837</password>
 	            <environment>Sandbox</environment>
-	            <muleVersion>4.3.0-20210622</muleVersion>
+	            <muleVersion>4.3.0</muleVersion>
 	            <workers>1</workers>
 	            <workerType>Micro</workerType>
 	            <applicationName>mudep-ayush</applicationName>
