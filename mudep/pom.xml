@@ -32,13 +32,13 @@
 				<configuration>
 				<cloudHubDeployment>
         	<uri>http://anypoint.mulesoft.com</uri>
-	      <username>ayushn01</username>]
+	      <username>ayushn01</username>
 	     <password>Mrku#837</password>
 	       <environment>Sandbox</environment>
 	        <muleVersion>4.3.0-20210622</muleVersion>
 	       <workers>1</workers>
 	        <workerType>Micro</workerType>
-	     <applicationName>mudep</applicationName>
+	     <applicationName>mudep-ayush</applicationName>
 	<objectStoreV2>true</objectStoreV2>
 	</cloudHubDeployment>
 	</configuration>
