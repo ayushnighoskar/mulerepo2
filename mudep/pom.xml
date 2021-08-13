@@ -38,7 +38,7 @@
 	            <muleVersion>4.3.0-20210622</muleVersion>
 	            <workers>1</workers>
 	            <workerType>Micro</workerType>
-	            <applicationName>mudep</applicationName>
+	            <applicationName>mudep-ayush</applicationName>
 	            <objectStoreV2>true</objectStoreV2>
 	            </cloudHubDeployment>
 	            </configuration>
